@@ -13,7 +13,7 @@ Simply source the provided script in your bash profile or run it in your termina
 
 ## Contribution
 
-This script is dedicated to all system administrators who are pressed for time managing servers, and especially to my child Zero. Contributions and improvements are welcome.
+This script is dedicated to all system administrators who have limited time to manage servers, and especially to my child Zero. Contributions and improvements are welcome.
 
 ## License
 
